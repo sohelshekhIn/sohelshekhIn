@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohelshekhIn
-- 👀 I love working in UI/UX Designing, Frontend, React-Next Js, Flask, Electron based Web Apps, Strapi, Bots & Automation using Python and Javascript
+- 👀 I love working in UI/UX Designing,Full Stack Web Development, React-Next Js, Strapi, Postgres, Supabase
 - 👌  Making all-in-one portfolio.
 - 🌱 I’m currently freelancing in Full Stack Web Development and looking forward to go for Cloud Computing and ML.
 - 📫 You can contact me on [contact.sohelshekh@gmail.com](mailto:contact.sohelshekh@gmail.com?subject=Through%3A%20github.com%2FsohelshekhIn)
