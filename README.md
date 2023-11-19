@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohelshekhIn
 - 👀 I love working in UI/UX Designing,Full Stack Web Development, React-Next Js, Strapi, Postgres, Supabase
 - 👌  Making all-in-one portfolio.
-- 🌱 I’m currently freelancing in Full Stack Web Development and looking forward to go for Cloud Computing and ML.
+- 🌱 I’m currently freelancing in Full Stack Web Development and looking forward to go for seme Low Level Systems Design, GoLang and also little experiment on 3d interactive sites with three.js
 - 📫 You can contact me on [hi@sohel.tech](mailto:hi@sohel.tech)
 
 <!---
