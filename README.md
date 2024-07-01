@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sohelshekhIn&icon=8&color=1)]
+![](https://visitcount.itsvg.in/api?id=sohelshekhIn&icon=8&color=1)
 
 <!---
 - 👋 Hi, I’m @sohelshekhIn
