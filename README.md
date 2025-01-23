@@ -19,6 +19,9 @@
 ---
 ![](https://visitcount.itsvg.in/api?id=sohelshekhIn&icon=8&color=1)
 
+![image](https://github.com/user-attachments/assets/0663238d-36ee-444d-8d6b-a91d43ca1786)
+
+
 <!---
 - 👋 Hi, I’m @sohelshekhIn
 - 👀 I love working in UI/UX Designing,Full Stack Web Development, React-Next Js, Strapi, Postgres, Supabase
