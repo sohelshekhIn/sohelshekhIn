@@ -57,7 +57,7 @@ I'm a passionate Full Stack Developer with 3+ years of experience building scala
 
 | 📊 WakaTime (Last 7 Days) | 🔥 GitHub Stats |
 |--------------------------|----------------|
-| [![WakaTime](https://wakatime.com/share/@sohelshekh/7b9466df-c040-486a-9e46-79ab49304a6b.svg)](https://wakatime.com/@sohel) | ![Sohel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelshekhIn&show_icons=true&theme=github_dark&hide_border=true) |
+| [![WakaTime](https://wakatime.com/share/@sohelshekh/7b9466df-c040-486a-9e46-79ab49304a6b.svg)](https://wakatime.com/@sohelshekh) | ![Sohel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelshekhIn&show_icons=true&theme=github_dark&hide_border=true) |
 
 | 💻 Most Used Languages | 🧠 Streak Stats |
 |------------------------|----------------|
