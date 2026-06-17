@@ -13,8 +13,8 @@
 
 ---
 
-**Currently** <br/>
-Developer Co-op, Government of Ontario &nbsp;|&nbsp; VP of Backend, Hack Canada &nbsp;|&nbsp; VP, AWS Cloud Club @ Sheridan
+**Roles** <br/>
+VP, AWS Cloud Club @ Sheridan  &nbsp;|&nbsp;VP of Tech, Hack Canada &nbsp;|&nbsp; Prev Developer Co-op, Government of Ontario
 
 
 **Focus**<br/>
