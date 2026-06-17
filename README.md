@@ -1,7 +1,7 @@
 <h1 align="center">Sohel Shekh</h1>
 
 <p align="center">
-  Software Developer · Backend & Distributed Systems<br>
+  Software Developer · Backend - Cloud - Distributed Systems<br>
   <a href="https://sohel.tech">sohel.tech</a> &nbsp;·&nbsp; <a href="mailto:hi@sohel.tech">hi@sohel.tech</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/sohelshekh">LinkedIn</a>
 </p>
 
@@ -13,11 +13,11 @@
 
 ---
 
-**Currently** — Developer Co-op, Government of Ontario &nbsp;|&nbsp; VP of Backend, Hack Canada &nbsp;|&nbsp; VP, AWS Cloud Club @ Sheridan
+**Currently** - Developer Co-op, Government of Ontario &nbsp;|&nbsp; VP of Backend, Hack Canada &nbsp;|&nbsp; VP, AWS Cloud Club @ Sheridan
 
-**Focus** — Building systems that scale. Backend architecture, distributed infrastructure, cloud-native automation.
+**Focus** - Building systems that scale. Backend architecture, distributed infrastructure, cloud-native automation.
 
-**Community** — 500+ teams judged · 350+ mentored · 1,500+ hackers supported across 10+ hackathons
+**Community** - 500+ teams judged · 350+ mentored · 2100+ hackers supported across 20+ hackathons
 
 ---
 
