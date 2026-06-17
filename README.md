@@ -13,14 +13,14 @@
 
 ---
 
-**Currently**
+**Currently** <br/>
 Developer Co-op, Government of Ontario &nbsp;|&nbsp; VP of Backend, Hack Canada &nbsp;|&nbsp; VP, AWS Cloud Club @ Sheridan
 
 
-**Focus**
+**Focus**<br/>
 Building systems that scale. Backend architecture, distributed infrastructure, cloud-native automation.
 
-**Community**
+**Community**<br/>
 500+ teams judged · 350+ mentored · 2100+ hackers supported across 20+ hackathons
 
 ---
